@@ -1,2 +1,2 @@
 # DataScience
-Data science projects
+Data science and Machine Learning projects
